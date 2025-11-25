@@ -1,1 +1,1 @@
-Built an Iron Paradise Gym Web app with contact form where filled contact form will directly get sent to e-mail of owner of the gym and BMI calculator feature to check users whether they are underweight, normal weight, overweight or obese.
+Built an Iron Paradise Gym Web app with contact form where filled contact form will directly get sent to e-mail of owner of the gym and BMI calculator feature to help users to check whether they are underweight, normal weight, overweight or obese.
